@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Flutter, React**
 
-- 📄 Know about my experiences **I am a student in computer science in work/study training program, I work in a company for 2 years.  Mainly, I work on Java 8 and Servicemix framework.**
+- 📄 Know about my experiences **I am a student in computer science in work/study training program, I work in a company for 3 years.  Mainly, I work on Java 8 and Servicemix framework.**
 
 - ⚡ Fun fact **Boxing enthusiast :punch:**
 
