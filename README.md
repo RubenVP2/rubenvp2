@@ -7,11 +7,11 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on [Ombi-requester](https://github.com/RubenVP2/ombi-requester)
+- 🔭 I’m currently working on None
 
-- 🌱 I’m currently learning **Flutter, React**
+- 🌱 I’m currently learning **Rust**
 
-- 📄 Know about my experiences **I am a student in computer science in work/study training program, I work in a company for 3 years.  Mainly, I work on Java 8 and Servicemix framework.**
+- 📄 Know about my experiences **I spent 3 years working mainly on Java and Angular. Today, I'm working as a Python developer.**
 
 - ⚡ Fun fact **Boxing enthusiast :punch:**
 
